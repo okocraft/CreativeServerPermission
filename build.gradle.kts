@@ -14,7 +14,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:26.1.2.build.65-stable")
-    compileOnly("com.github.plan-player-analytics:Plan:5.7.3306")
+    compileOnly("io.papermc.paper:paper-api:26.1.2.build.70-stable")
+    compileOnly("com.github.plan-player-analytics:Plan:5.7.3506")
     compileOnly("net.luckperms:api:5.5")
 }
